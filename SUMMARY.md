@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to Aa. Product](README.md)
+* [👋 Welcome to Product](README.md)
 
 ## Overview
 
